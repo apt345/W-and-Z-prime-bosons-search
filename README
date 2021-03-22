@@ -8,7 +8,7 @@ Python script that runs the TSelector. Use 'Data' or 'MC' as input argument when
 
 3.) MakePlots.py :  
 Python script that reads the histograms made by the TSelector, scale the samples to cross section and luminosity and makes plots in the Plots folder. Run with 'ee' or 'uu' as input argument.  
-Only plotting with data and SM background is implemented. Please check that you can reproduce these, and then move on to adding the signal samples relevant to your analysis. 
+Only plotting with data and SM background is implemented. 
 
 4.) infofile.py : 
 Used in the plotting script to scale the MC samples to the right cross section and luminosity. (No need to open this file.) 
