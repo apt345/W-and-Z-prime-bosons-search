@@ -12,3 +12,11 @@ Only plotting with data and SM background is implemented.
 
 4.) infofile.py : 
 Used in the plotting script to scale the MC samples to the right cross section and luminosity. (No need to open this file.) 
+
+Data for the project are available at:
+
+1 lepton final states: http://opendata.cern.ch/record/15001
+
+2 lepton final states: http://opendata.cern.ch/record/15003
+
+Final version of the project is available at: https://cds.cern.ch/record/2743513
